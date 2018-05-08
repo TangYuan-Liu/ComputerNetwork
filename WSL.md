@@ -3,7 +3,7 @@
 Windows下Linux子系统(Windows Subsystem for Linux，WSL)是一个为在Windows 10上能够原生运行Linux二进制可执行文件的兼容层[1]。该兼容层使得纯正的Ubuntu14.04
 能够在Windows环境下原生运行。
 <div align="center">
-<img style="flex-grow:1; flex-shrink:1; border: 1px solid black;" src="./wsl.png" width="100" alt="wsl" />
+<img style="flex-grow:1; flex-shrink:1; border: 1px solid black;" src="./wsl.PNG" width="100" alt="wsl" />
 </div>
 ### AQUIRMENT
 Windows 10 版本：>= 1709  
